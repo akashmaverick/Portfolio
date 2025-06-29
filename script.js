@@ -1,9 +1,9 @@
  // Typewriter animation initialization
       var typed = new Typed("#typed", {
         strings: [
-          "a web designer",
-          "a front-end developer",
-          "an aspiring AI Generalist",
+          "Web Designer",
+          "Front-End Dev",
+          "AI Generalist",
         ],
         typeSpeed: 50,
         backSpeed: 30,
