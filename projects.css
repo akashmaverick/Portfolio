@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1e1e26;
+  color: #e4e4e7;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.section-title {
+  color: #a259ff;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.card {
+  background-color: #2b2b35;
+  border: none;
+  color: #e4e4e7;
+}
+
+.card .btn {
+  border-color: #a259ff;
+  color: #a259ff;
+}
+
+.card .btn:hover {
+  background-color: #a259ff;
+  color: #fff;
+}
+
+header,
+footer {
+  padding: 20px 0;
+}
+
+.footer {
+  text-align: center;
+  background-color: #1a1a1f;
+  padding: 30px;
+}

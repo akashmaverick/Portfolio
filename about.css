@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1e1e26;
+  color: #e4e4e7;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.section-title {
+  color: #a259ff;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.btn-custom {
+  border: 1px solid #a259ff;
+  color: #a259ff;
+  background-color: transparent;
+  padding: 8px 16px;
+}
+
+.btn-custom:hover {
+  background-color: #a259ff;
+  color: #fff;
+}
+
+header,
+footer {
+  padding: 20px 0;
+}
+
+.footer {
+  text-align: center;
+  background-color: #1a1a1f;
+  padding: 30px;
+}
